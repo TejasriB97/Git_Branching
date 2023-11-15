@@ -1,4 +1,4 @@
 #!/bin/bash
 
-greeting="Hello world"
+greeting="Hello Folks"
 echo $greeting
