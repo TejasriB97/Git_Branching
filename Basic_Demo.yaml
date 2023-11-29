@@ -2,8 +2,8 @@ Resources:
   MyEC2Instance:
     Type: AWS::EC2::Instance
     Properties:
-      ImageId: ami-12345678  # Replace with your desired AMI ID
-      InstanceType: t2.micro  # Replace with your desired instance type
+      ImageId: ami-0d6f0c8361b9e2612
+      InstanceType: t2.micro
       SecurityGroups:
         - Ref: MySecurityGroup
 
